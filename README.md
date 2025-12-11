@@ -9,7 +9,6 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=c792ea&labelColor=011627&color=7fdbca)
 ![](https://img.shields.io/badge/OS-Windows-Informational?style=plastic&logo=Windows&logoColor=c792ea&labelColor=011627&color=7fdbca)
-![](https://img.shields.io/badge/OS-macOS-Informational?style=plastic&logo=Apple&logoColor=c792ea&labelColor=011627&color=7fdbca)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-Informational?style=plastic&logo=Visual%20Studio&logoColor=c792ea&labelColor=011627&color=7fdbca)
 ![](https://img.shields.io/badge/Editor-Vim-Informational?style=plastic&logo=NeoVim&logoColor=c792ea&labelColor=011627&color=7fdbca)
 ![](https://img.shields.io/badge/Editor-EclipseIDE-Informational?style=plastic&logo=Eclipse%20IDE&logoColor=c792ea&labelColor=011627&color=7fdbca)
@@ -40,8 +39,7 @@ I'm Zach, I am a computer science student at Purdue University, with a specializ
 ## My Github Stats
 
 <div align="center">
-  
-[![iRacc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyKirkeby&show_icons=true&theme=nightowl&count_private=true)
+  [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyKirkeby&show_icons=true&theme=nightowl&count_private=true)
 </div>
 
 <div align="center">
