@@ -39,7 +39,8 @@ I'm Zach, I am a computer science student at Purdue University, with a specializ
 ## My Github Stats
 
 <div align="center">
-  [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyKirkeby&show_icons=true&theme=nightowl&count_private=true)
+  
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyKirkeby&show_icons=true&theme=nightowl&count_private=true)
 </div>
 
 <div align="center">
